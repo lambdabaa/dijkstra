@@ -1,0 +1,39 @@
+{
+  "name": "dijkstra",
+  "version": "0.0.1",
+  "description": "Implementation of dijkstra's algorithm",
+  "main": "index.js",
+  "dependencies": {
+    "deep-equal": "0.1.2",
+    "fibonacci-heap": "0.0.1",
+    "json-stable-stringify": "0.1.1"
+  },
+  "devDependencies": {
+    "mocha": "1.16.2"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaye/dijkstra"
+  },
+  "keywords": [
+    "dijkstra",
+    "graph",
+    "search",
+    "fibonacci",
+    "heap",
+    "single",
+    "source",
+    "shortest",
+    "path",
+    "algorithnm"
+  ],
+  "author": "Gareth Aye <gareth.aye@gmail.com>",
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/gaye/dijkstra/issues"
+  },
+  "homepage": "https://github.com/gaye/dijkstra"
+}
